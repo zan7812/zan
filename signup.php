@@ -1,7 +1,7 @@
 <?php
 
 /* $Id: signup.php 262 2009-11-30 23:32:59Z steve $ */
-
+// добавка для второго комита
 $page = "signup";
 include "header.php";
 
